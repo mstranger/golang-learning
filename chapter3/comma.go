@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// p. 99
+// comma use recursion
 func comma(s string) string {
 	n := len(s)
 	if n <= 3 {
