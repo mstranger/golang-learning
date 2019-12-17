@@ -1,8 +1,6 @@
 // p. 231
 package main
 
-// TODO: p. 236, tasks 7.11 - 7.12
-
 import (
 	"fmt"
 	"log"
